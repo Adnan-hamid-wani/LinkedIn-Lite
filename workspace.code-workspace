@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://ssh-remote+sandbox.jkqhqy.csb/project/workspace"
+		}
+	],
+	"remoteAuthority": "ssh-remote+sandbox.jkqhqy.csb",
+	"settings": {}
+}
